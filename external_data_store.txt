@@ -1,2 +1,2 @@
 data
-inst
+inst/extdata
