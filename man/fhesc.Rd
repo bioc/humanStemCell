@@ -17,7 +17,7 @@ The data are in the form of an \code{ExpressionSet} instance.
 \details{
 Human Embryonic Stem Cells, H1 Line were cultured under feeder-free conditions.
 Undifferentiated samples were taken from this pool. The differentiated samples
-were obtained by maintaining the cells in culture for 10­14 days in the 
+were obtained by maintaining the cells in culture for 10 - 14 days in the 
 absence of basic fibroblast growth factor and conditioned medium.
 }
 \source{
