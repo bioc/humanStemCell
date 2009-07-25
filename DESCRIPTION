@@ -1,9 +1,9 @@
 Package: humanStemCell
 Title:  Human Stem Cells time course experiment
-Version: 0.2.2
+Version: 0.2.3
 Author: R. Gentleman, N. Le Meur, M. Tewari
 Description: Affymetrix time course experiment on human stem cells (two time points: undifferentiated and differentiated).
 biocViews: ExperimentData, StemCells
 Maintainer: R. Gentleman <rgentlem@fhcrc.org>
 License: Artistic-2.0
-Depends: Biobase, hgu133plus2.db
+Depends: Biobase (>= 2.5.5), hgu133plus2.db
